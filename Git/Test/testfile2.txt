@@ -2,3 +2,5 @@ this file added from got remote repo
 this file I have updated
 
 made another update by chinni
+
+Changing from remote & tryging to pull to my local
